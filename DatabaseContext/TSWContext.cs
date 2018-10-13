@@ -14,5 +14,7 @@ namespace DatabaseContext
             
         }
         public DbSet<Model.Event> Events { get; set; }
+
+
     }
 }
